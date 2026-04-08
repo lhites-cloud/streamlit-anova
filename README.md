@@ -1,4 +1,3 @@
-cat > README.md << EOF
 # 🌾 Field Trial ANOVA Analyzer
 
 A Streamlit app for analyzing agricultural field trials using ANOVA.
